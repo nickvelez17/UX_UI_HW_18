@@ -227,7 +227,6 @@ h3{
 
 .myProjectsParent{
 
-
     padding-left: 200px;
     padding-right: 200px;
     display: flex;
@@ -339,4 +338,13 @@ h4{
     font-weight: 800;
     font-size: 34px;
     padding-bottom: 15px;
+}
+
+.viewMore{
+    align-self: center;
+    text-decoration: underline;
+    color:#FFFFFF;
+    font-size: 48px;
+    font-weight: 800;
+
 }
